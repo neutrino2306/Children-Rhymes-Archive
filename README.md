@@ -41,8 +41,6 @@ To run this project locally:
 
 The frontend will be running at [http://localhost:5173](http://localhost:5173) by default.
 
----
-
 # Backend
 
 1. Open the `backend/` directory using an IDE such as IntelliJ IDEA:
